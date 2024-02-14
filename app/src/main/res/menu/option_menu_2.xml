@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+<!--    <item-->
+<!--        android:id="@+id/back"-->
+<!--        android:title="back"-->
+<!--        android:icon="@drawable/baseline_arrow_back_24"-->
+<!--        app:showAsAction=""/>-->
+    <item
+        android:id="@+id/soundoff"
+        android:title="SOUND OFF" />
+    <item
+        android:id="@+id/menu_Share"
+        android:title="SHARE" />
+    <item
+        android:id="@+id/menu_moregame"
+        android:title="MORE GAME" />
+    <item
+        android:id="@+id/menu_privacypolicy"
+        android:title="PRIVACY POLICY" />
+
+
+</menu>
